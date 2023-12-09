@@ -1,4 +1,4 @@
-#Simple Browser written in python Install the Libs below
+#Simple browser written in python install the Libs below
 #irc.twistednet.org #dev #twisted
 #by gh0st 
 
